@@ -1,0 +1,17 @@
+{
+    "Let's take a break!": "Let's take a break!",
+    "Thanks, Let's get back to work!": "Thanks, Let's get back to work!",
+    "Select Department": "Select Department",
+    "10": "10",
+    "25": "25",
+    "50": "50",
+    "100": "100",
+    "Google Fonts API key not found": "Google Fonts API key not found",
+    "The start time must be in the 24-hour format (H:i:s)": "The start time must be in the 24-hour format (H:i:s)",
+    "Notice created successfully": "Notice created successfully",
+    "Unlimited": "Unlimited",
+    "If you set the value to 0 or leave it blank, the employee limit should be considered unlimited": "If you set the value to 0 or leave it blank, the employee limit should be considered unlimited",
+    "Basic Price intially count for 1 month": "Basic Price intially count for 1 month",
+    "Opting for this plan as the preferred choice could render the existing popular plan obsolete, given the evolving definition of what is considered popular": "Opting for this plan as the preferred choice could render the existing popular plan obsolete, given the evolving definition of what is considered popular",
+    "At least one pricing plan must have a defined price": "At least one pricing plan must have a defined price"
+}

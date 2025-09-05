@@ -1,0 +1,13 @@
+{
+    "Normal": "Normal",
+    "Face Recognition": "Face Recognition",
+    "QRCODE": "QRCODE",
+    "SELFIE": "SELFIE",
+    "Attendance": "Attendance",
+    "Face_Attendance": "Face_Attendance",
+    "Attendance report": "Attendance report",
+    "Weekend Setup": "Weekend Setup",
+    "Holiday Setup": "Holiday Setup",
+    "Shift Setup": "Shift Setup",
+    "Duty Schedule": "Duty Schedule"
+}

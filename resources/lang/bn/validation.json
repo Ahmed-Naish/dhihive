@@ -1,0 +1,19 @@
+{
+    "Name is required": "Name is required",
+    "Name is not a valid string": "Name is not a valid string",
+    "Name may not be greater than 191 characters": "Name may not be greater than 191 characters",
+    "Progress is required": "Progress is required",
+    "Status is required": "Status is required",
+    "Start date is required": "Start date is required",
+    "End date is required": "End date is required",
+    "Priority is required": "Priority is required",
+    "Description is required": "Description is required",
+    "Title is required": "Title is required",
+    "Location is required": "Location is required",
+    "Date is required": "Date is required",
+    "Start time is required": "Start time is required",
+    "EndTime is required": "EndTime is required",
+    "UserId is required": "UserId is required",
+    "Attachment is not supported": "Attachment is not supported",
+    "Description is not more than 800 characters": "Description is not more than 800 characters"
+}

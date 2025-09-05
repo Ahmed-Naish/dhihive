@@ -1,0 +1,6 @@
+Name,Email,Phone,Role,Department,Designation,Shift,Password
+User 1,user1@gmail.com,126454444,Admin,Executive,CIO,Morning,12345678
+User 2,user2@gmail.com,584541444,Staff,Sale,Software Developer,Morning,12345678
+User 3,user3@gmail.com,414251444,HR,HR,HR Manager,Morning,12345678
+User 4,user4@gmail.com,254544455,Staff,Sale,Software Developer,Morning,12345678
+User 5,user5@gmail.com,545445544,Staff,Sale,Software Developer,Morning,12345678

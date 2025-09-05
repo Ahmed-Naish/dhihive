@@ -1,0 +1,11 @@
+{
+    "name": "Break",
+    "alias": "break",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Break\\Providers\\BreakServiceProvider"
+    ],
+    "files": []
+}

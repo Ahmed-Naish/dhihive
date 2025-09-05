@@ -1,0 +1,11 @@
+{
+    "name": "MultiShift",
+    "alias": "multishift",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\MultiShift\\Providers\\MultiShiftServiceProvider"
+    ],
+    "files": []
+}

@@ -1,0 +1,8 @@
+{
+    "The type field is required": "The type field is required",
+    "The type must be either 'break' or 'attendance'": "The type must be either 'break' or 'attendance'",
+    "The ID field is required": "The ID field is required",
+    "The ID must be a number": "The ID must be a number",
+    "The remark field is required": "The remark field is required",
+    "The remark may not be greater than 255 characters": "The remark may not be greater than 255 characters"
+}

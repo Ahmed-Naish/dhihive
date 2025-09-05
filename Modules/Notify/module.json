@@ -1,0 +1,11 @@
+{
+    "name": "Notify",
+    "alias": "notify",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Notify\\Providers\\NotifyServiceProvider"
+    ],
+    "files": []
+}
