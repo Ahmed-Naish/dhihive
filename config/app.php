@@ -8,7 +8,7 @@ return [
 
     /*
     |--------------------------------------------------------------------------
-    | Application Name
+    | Application Name ------- na
     |--------------------------------------------------------------------------
     |
     | This value is the name of your application. This value is used when the
@@ -209,7 +209,6 @@ return [
         App\Providers\RouteServiceProvider::class,
         App\Providers\TelescopeServiceProvider::class,
         App\Providers\TenancyServiceProvider::class,
-        Barryvdh\Debugbar\ServiceProvider::class,
         Nwidart\Modules\LaravelModulesServiceProvider::class,
         niklasravnsborg\LaravelPdf\PdfServiceProvider::class,
         // Jmrashed\Geolocation\GeolocationServiceProvider::class,
